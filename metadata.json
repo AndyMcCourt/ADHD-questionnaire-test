@@ -1,0 +1,5 @@
+{
+  "name": "Adult ADHD Self-Report Scale (ASRS-v1.1)",
+  "description": "An interactive web application for the Adult ADHD Self-Report Scale (ASRS-v1.1) Symptom Checklist. Users can complete the questionnaire, view their results based on the official scoring guide, and receive helpful context. The application also allows downloading a PDF summary of the answers and interpretation.",
+  "requestFramePermissions": []
+}
